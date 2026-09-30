@@ -12,3 +12,5 @@ Duas questões importantes dizem respeito ao identificador ISM e sua relação c
 Questionei também sobre as principais narrativas às quais posso me atentar para selecionar as opções mais interessantes de criptomoedas, incluindo como fontes os portais dedicados ao tema que estão online há mais tempo e reúnem autores e analistas confiáveis, além dos sites oficiais de projetos importantes, como Ethereum, Solana e Ripple. Mais uma vez, o principal canal do YouTube a auxiliar no esclarecimento do tema é o "The House of Crypto".
 
 Para analisar projetos e receitas de altcoin, um portal interessante sugerido é o Defi Llama. Por esse motivo, solicitei uma explicação de como utilizá-lo para analisar as receitas, obtendo boas sugestões de filtragem. 
+
+[Relatório interativo](https://notebook.google.com/notebook/acf62537-e8ef-4da7-aa9b-92994e366b3d/artifact/89b8d58d-b303-4f86-93ad-420dafe94d96?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
